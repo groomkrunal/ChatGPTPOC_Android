@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     TextView welcomeTextView;
     EditText messageEditText;
+
     ImageButton sendButton;
     List<Message> messageList;
     MessageAdapter messageAdapter;
